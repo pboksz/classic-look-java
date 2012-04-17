@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
+           version="2.5">
+
+
+   <welcome-file-list>
+      <welcome-file>pages/index.jsp</welcome-file>
+   </welcome-file-list>
+
+   <icon>
+      <small-icon>/images/favicon.ico</small-icon>
+      <large-icon>/images/favicon.ico</large-icon>
+   </icon>
+</web-app>

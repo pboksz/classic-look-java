@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+html, body {
+	background:url('/images/backgroundtest.jpg');
+	background-repeat:repeat;
+	height:100%;
+}
+.bodytop{
+	background:url('/images/BodyTop.PNG');
+	width:800px;
+	height:40px;
+	display:inline-block;
+	margin:auto;
+}
+.header {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:26px;
+	display:inline;
+}
+.bodymain {
+	background-image:url('/images/BodyMain.PNG');
+	background-repeat:repeat-y;
+	width:800px;
+	margin:auto;
+	display:inline-block;
+}
+.model {
+	float:left;
+	margin-left:2px;
+	width:350px;
+}
+.text {
+	float:left;
+	width:444px;
+}
+.header2 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+	text-align:center;
+	display:inline;
+}
+.para {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	text-align:justify;
+	padding-right:8px;
+}
+.prices {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+}
+.pricedesc {
+	width:344px;
+}
+.pricedollar {
+	width:100px;
+}
+.footer {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	display:inline;
+}
+a, a:link, a:visited, a:hover, a:active {
+	text-decoration:none;
+	color:black;
+	cursor:auto;
+}
+
+.main {
+	width: 800px;	
+}
