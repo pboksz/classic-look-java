@@ -1,66 +1,88 @@
 @charset "utf-8";
 /* CSS Document */
 html, body {
-	background:url('/images/backgroundtest.jpg');
+	background:url('/images/background.jpg');
 	background-repeat:repeat;
 	height:100%;
 }
+
 .bodytop{
-	background:url('/images/BodyTop.PNG');
+	background:url('/images/bodytop.png');
 	width:800px;
 	height:40px;
 	display:inline-block;
-	margin:auto;
+   margin-top: 10px;
 }
+
 .header {
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:26px;
-	display:inline;
+   font-weight: bold;
+   font-size:26px;
 }
+
+.bodybottom{
+   margin: 0;
+   padding: 0;
+}
+
 .bodymain {
-	background-image:url('/images/BodyMain.PNG');
+	background-image:url('/images/bodymain.png');
 	background-repeat:repeat-y;
 	width:800px;
 	margin:auto;
 	display:inline-block;
 }
+
 .model {
 	float:left;
 	margin-left:2px;
 	width:350px;
 }
+
 .text {
 	float:left;
 	width:444px;
 }
+
 .header2 {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:18px;
 	text-align:center;
 	display:inline;
 }
+
 .para {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:14px;
 	text-align:justify;
 	padding-right:8px;
 }
+
 .prices {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:14px;
 }
+
 .pricedesc {
 	width:344px;
 }
+
 .pricedollar {
 	width:100px;
 }
+
 .footer {
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:10px;
 	font-weight:bold;
 	display:inline;
 }
+
+.footer a {
+   float: none;
+   margin: 0 10px 0 10px;
+}
+
 a, a:link, a:visited, a:hover, a:active {
 	text-decoration:none;
 	color:black;
@@ -71,6 +93,7 @@ a {
    display: inline;
    padding: 0;
    margin: 0;
+   float: left;
 }
 
 .main {

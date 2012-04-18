@@ -7,7 +7,7 @@
 <body>
 <div align="center">
    <div class="bodytop">
-      <h1 class="header"> Services Offered by The Classic Look Salon</h1>
+      <span class="header"> Services Offered by The Classic Look Salon</span>
    </div>
 
    <div class="bodymain">

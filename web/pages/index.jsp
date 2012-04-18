@@ -24,7 +24,7 @@
 <div align="center">
    <div class="main">
       <div class="bodytop">
-         <h1 class="header">The Classic Look Nail and Hair Salon</h1>
+         <span class="header">The Classic Look Nail and Hair Salon</span>
       </div>
 
       <div class="bodymain">

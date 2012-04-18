@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <link rel="stylesheet" type="text/css" href="/css/style.css">
-<link rel="shortcut icon" type="image/x-icon" href="/images/fav.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 <script src="/js/application.js" type="text/javascript"></script>
 
 <html>
@@ -20,21 +20,21 @@
    <meta name="revisit-after" content="10 days">
 </head>
 
-<body onLoad="MM_preloadImages('home_on.png','services_on.png','staff_on.png','directions_on.png','contactus_on.png')">
+<body onLoad="MM_preloadImages('/images/home_on.png','/images/services_on.png','/images/directions_on.png','/images/contactus_on.png')">
    <div align="center">
       <div class="main">
          <a href="/pages/index.jsp"><img src="/images/name.png" alt="The Classic Look Name" width="565" height="104" border="0" /></a>
          <a href="/pages/directions.jsp"><img src="/images/address_top.png" width="235" height="104" border="0" alt="The Classic Look Address"></a><br>
-         <a href="/pages/index.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Home Button','','images/home_on.png',1)">
+         <a href="/pages/index.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Home Button','','/images/home_on.png',1)">
             <img src="/images/home.png" alt="The Classic Look Home Button" name="The Classic Look Home Button" width="107" height="46" border="0" vspace="0" id="The Classic Look Home Button" />
          </a>
-         <a href="/pages/services.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Services Button','','images/services_on.png',1)">
+         <a href="/pages/services.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Services Button','','/images/services_on.png',1)">
             <img src="/images/services.png" alt="The Classic Look Services Button" name="The Classic Look Services Button" width="134" height="46" border="0" vspace="0" id="The Classic Look Services Button" />
          </a>
-         <a href="/pages/directions.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Directions Button','','images/directions_on.png',1)">
+         <a href="/pages/directions.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Directions Button','','/images/directions_on.png',1)">
             <img src="/images/directions.png" alt="The Classic Look Directions Button" name="The Classic Look Directions Button" width="153" height="46" border="0" vspace="0" id="The Classic Look Directions Button" />
          </a>
-         <a href="/pages/contactus.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Contact Us Button','','images/contactus_on.png',1)">
+         <a href="/pages/contactus.jsp" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('The Classic Look Contact Us Button','','/images/contactus_on.png',1)">
             <img src="/images/contactus.png" alt="The Classic Look Contact Us Button" name="The Classic Look Contact Us Button" width="171" height="46" border="0" vspace="0" id="The Classic Look About Us Button" />
          </a>
          <a href="/pages/directions.jsp"><img src="/images/address_bottom.png" width="235" height="46" border="0" alt="The Classic Look Address"></a>
