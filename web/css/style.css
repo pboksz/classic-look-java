@@ -67,6 +67,12 @@ a, a:link, a:visited, a:hover, a:active {
 	cursor:auto;
 }
 
+a {
+   display: inline;
+   padding: 0;
+   margin: 0;
+}
+
 .main {
 	width: 800px;	
 }
