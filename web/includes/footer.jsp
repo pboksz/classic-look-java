@@ -14,7 +14,7 @@
       <a href="#" target="_self">INFO</a>
    </p>
    <p align="center">
-      <a>2011 &copy; Phillip Boksz</a>
+      <a>2012 &copy; Phillip Boksz</a>
    </p>
 </div>
 
