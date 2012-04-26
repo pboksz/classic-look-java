@@ -11,19 +11,19 @@
   <changefreq>yearly</changefreq>
 </url>
 <url>
-  <loc>http://www.theclassiclooksalon.com/index.php</loc>
+  <loc>http://www.theclassiclooksalon.com/pages/index.jsp</loc>
   <changefreq>yearly</changefreq>
 </url>
 <url>
-  <loc>http://www.theclassiclooksalon.com/directions.php</loc>
+  <loc>http://www.theclassiclooksalon.com/pages/directions.jsp</loc>
   <changefreq>yearly</changefreq>
 </url>
 <url>
-  <loc>http://www.theclassiclooksalon.com/services.php</loc>
+  <loc>http://www.theclassiclooksalon.com/pages/services.jsp</loc>
   <changefreq>yearly</changefreq>
 </url>
 <url>
-  <loc>http://www.theclassiclooksalon.com/contactus.php</loc>
+  <loc>http://www.theclassiclooksalon.com/pages/contactus.jsp</loc>
   <changefreq>yearly</changefreq>
 </url>
 </urlset>
