@@ -13,7 +13,7 @@
       <a href="/pages/contactus.jsp" target="_self">CONTACT US</a>
       <a href="#" target="_self">INFO</a>
    </p>
-   <p align="center">
+   <p align="center" style="margin-bottom: 6px;">
       <a>2012 &copy; Phillip Boksz</a>
    </p>
 </div>
